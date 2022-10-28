@@ -1,4 +1,4 @@
-project_3.rs
+ project_3.rs
 fn main({
 	let p:f64 = 210000.0;
 	let r:f64 = 5.0;
