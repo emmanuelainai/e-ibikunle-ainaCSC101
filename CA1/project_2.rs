@@ -1,4 +1,4 @@
-project_2.rs
+ project_2.rs
 // representing the laptop brands by its first letter e.g h for hp and q for quantity and a for amount
 fn main({
 	let q1 = 2;
